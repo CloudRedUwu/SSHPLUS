@@ -1,8 +1,8 @@
 #!/bin/bash
 clear
 #--------------------------------
-# SCRIP SHADOW PROJECT PRO
-# CANAL TELEGRAM: @THEFATHER12
+# SCRIP SSH PLUS 
+# CANAL TELEGRAM: @NETCOLVIP
 #--------------------------------
 
 # - Cores
@@ -60,5 +60,5 @@ sysctl -p -f /etc/sysctl.d/70-disable-ipv6.conf
 
 # - Ejeculta instalador
 [[ -e Plus ]] && rm Plus
-wget raw.githubusercontent.com/CloudRedUwu/SSHPLUS/main/script/${arch}/Plus && chmod 777 Plus && ./Plus
+wget raw.githubusercontent.com/netfreeplus/SSHPLUS/main/script/${arch}/Plus && chmod 777 Plus && ./Plus
 
